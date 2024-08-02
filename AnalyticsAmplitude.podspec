@@ -1,6 +1,5 @@
 Pod::Spec.new do |s|
   s.name             = 'AnalyticsAmplitude'
-  s.module_name      = 'AnalyticsAmplitude'
   s.version          = '1.4.2'
   s.summary          = 'analytics-swift Cocoapods support.'
   s.homepage         = 'https://github.com/sayalideopurkar/analytics-swift-amplitude'
