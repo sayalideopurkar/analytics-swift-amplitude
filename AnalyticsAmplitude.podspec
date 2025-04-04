@@ -10,5 +10,5 @@ Pod::Spec.new do |s|
   s.static_framework = true
   s.swift_version = '5.9'
   s.source_files = 'Sources/SegmentAmplitude/**/*'
-  s.dependency 'Segment', '~> 1.6.0'
+  s.dependency 'Segment', '> 1.6.0'
 end
